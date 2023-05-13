@@ -22,7 +22,7 @@ function App() {
                 <S.HeaderButton onClick={changeDayMode}>Switch</S.HeaderButton>
             </S.Header>
             <S.Container>
-                <h1>Darkmode test.</h1>
+                <h1>Darkmode test. Also now a React-deployment test.</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam bibendum, risus vitae faucibus congue, purus ipsum ullamcorper est, id blandit urna ligula ac nulla. Integer aliquam justo non lectus sodales lobortis. Integer luctus interdum elit sed ornare. Suspendisse dapibus tincidunt odio, hendrerit blandit orci ultricies aliquet. Sed consectetur dui ac urna fermentum, non fringilla felis posuere. Proin erat dolor, ultricies pulvinar interdum lobortis, iaculis vel arcu. Integer tempus eget elit porta ultricies.</p>
                 <p>Nunc malesuada, mauris at malesuada dignissim, neque arcu fringilla tortor, nec auctor erat ligula elementum leo. Nunc pulvinar lacus non sollicitudin dictum. Ut vel neque hendrerit, maximus ante eu, cursus leo. Morbi facilisis lectus vel arcu ultricies congue.</p>
                 <p>Vestibulum nibh nisl, finibus ut neque non, accumsan congue felis. Vestibulum pellentesque velit pellentesque ex hendrerit consectetur. Vivamus efficitur feugiat malesuada. Nunc vel rutrum eros. Donec tristique dui sed dolor finibus, sit amet elementum nulla tincidunt. Donec malesuada turpis massa.</p>
